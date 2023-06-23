@@ -1,0 +1,17 @@
+{
+    "id": 123,
+    "bpm": 120,
+    "audio_key": "C",
+    "time_signature": "4/4",
+    "pitch_range": "C3-C5",
+    "num_measures": 8,
+    "inst": "Piano",
+    "genre": "Pop",
+    "min_velocity": 20,
+    "max_velocity": 100,
+    "track_role": "Melody",
+    "rhythm": "Groove",
+    "chord_progression": ["C", "F", "G", "C"],
+    "num_generate": 5,
+    "s3_prefix": "path/to/file"
+}
